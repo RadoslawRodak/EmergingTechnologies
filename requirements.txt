@@ -10,3 +10,6 @@ notebook
 numpy
 # Testing.
 pytest
+
+qiskit
+matplotlib
