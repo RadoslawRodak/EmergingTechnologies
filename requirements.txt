@@ -10,6 +10,9 @@ notebook
 numpy
 # Testing.
 pytest
-
+# Quantum computing framework.
 qiskit
+# Qiskit Aer simulator.
+qiskit_aer
+# Plotting library.
 matplotlib
